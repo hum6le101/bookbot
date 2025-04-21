@@ -1,2 +1,3 @@
 # bookbot
-boot.dev first project called bookbot. It is used to count characters in a file
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
